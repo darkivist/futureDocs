@@ -4,5 +4,6 @@ layout: default
 nav_order: 1
 ---
 
-# Front page
-Your content goes here!
+## Index
+
+This test website documents settings for your [Archivematica](https://www.archivematica.org/en/) instance.
